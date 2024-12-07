@@ -1,0 +1,329 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/yuyihao/yuyihao/coldoc/documents/" . "templates/")
+ ("/home/yuyihao/yuyihao/coldoc/accounts/" . "templates/")
+ ("/home/yuyihao/yuyihao/coldoc/" . "documents/")
+ ("/home/yuyihao/yuyihao/petshop/" . "petbros/")
+ ("/home/yuyihao/neenopal/ga4-auditor/" . "ga4-auditor-backend-dev/")
+ ("/home/yuyihao/yuyihao/love-spy/" . "love_spy/")
+ ("/home/yuyihao/yuyihao/love-spy/love_spy/" . "accounts/")
+ ("/home/yuyihao/yuyihao/python-game/" . "ping-pong/")
+ ("/lib/X11/" . "x11perfcomp/")
+ ("/lib/" . "X11/")
+ ("/home/yuyihao/neenopal/react-django-demo/frontend/" . "src/")
+ ("/home/yuyihao/neenopal/react-django-demo/frontend/src/" . "pages/")
+ ("/home/yuyihao/neenopal/react-django-demo/backend/backend/" . "backend/")
+ ("/home/yuyihao/neenopal/react-django-demo/backend/" . "backend/")
+ ("/home/yuyihao/neenopal/react-django-demo/" . "frontend/")
+ ("/home/yuyihao/neenopal/strip-new-arch/coupon_code_flow/coupon-stripe-test/" . "coupon_code_app/")
+ ("/home/yuyihao/neenopal/auth/" . "accounts/")
+ ("/home/yuyihao/neenopal/strip-new-arch/" . "coupon_code_flow/")
+ ("/home/yuyihao/neenopal/strip-new-arch/coupon_code_flow/" . "coupon-stripe-test/")
+ ("/home/yuyihao/neenopal/" . "ga4-auditor/")
+ ("/home/yuyihao/.dotfiles/" . "i3/")
+ ("/sudo:localhost:/" . "etc/")
+ ("/home/yuyihao/NeenOpal/encrypt-data/project/" . "encrypt_project/")
+ ("/home/yuyihao/NeenOpal/encrypt-data/" . "project/")
+ ("/home/yuyihao/NeenOpal/django-mfa/" . "django-mfa-demo/")
+ ("/home/yuyihao/NeenOpal/encrypt-data/project/encrypt_project/" . "temp_migrations/")
+ ("/home/yuyihao/NeenOpal/myproject/" . "myapp/")
+ ("/home/yuyihao/NeenOpal/django-mfa/django-mfa-demo/" . "myapp/")
+ ("/home/yuyihao/yuyihao/django-field-encrypt/" . "django-encryption-main/")
+ ("/" . "home/")
+ ("/home/yuyihao/Downloads/" . "books/")
+ ("/home/yuyihao/yuyihao/c_project/book_excercise/" . "chap01/")
+ ("/home/yuyihao/yuyihao/c_project/" . "book_excercise/")
+ ("/home/yuyihao/yuyihao/yuyi-hao.github.io/_site/" . "about/")
+ ("/home/yuyihao/yuyihao/yuyi-hao.github.io/" . "assets/")
+ ("/home/yuyihao/yuyihao/yuyihao-github-page/" . "yuyihao_github_page/")
+ ("/home/yuyihao/yuyihao/C-in-depth-lab-excercise/" . "chap1/")
+ ("/home/yuyihao/NeenOpal/mokkupai/projects/" . "auth/")
+ ("/home/yuyihao/NeenOpal/mokkupai/" . "projects/")
+ ("/home/yuyihao/NeenOpal/" . "encrypt-data/")
+ ("/usr/" . "include/")
+ ("/etc/xdg/" . "autostart/")
+ ("/home/yuyihao/.config/xfce4/xfconf/" . "xfce-perchannel-xml/")
+ ("/home/yuyihao/.config/xfce4/" . "xfconf/")
+ ("/home/yuyihao/.config/" . "i3/")
+ ("/home/" . "yuyihao/")
+ ("/home/yuyihao/yuyihao/checker-play/" . "python-build/")
+ ("/home/yuyihao/yuyihao/" . "coldoc/")
+ ("/home/yuyihao/" . "neenopal/")
+ ("/home/yuyihao/.emacs.d/" . "auto-save-list/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/yuyihao/yuyihao/coldoc/"
+ "/home/yuyihao/yuyihao/coldoc/documents/templates/"
+ "/home/yuyihao/yuyihao/coldoc/accounts/templates/"
+ "/home/yuyihao/yuyihao/coldoc/documents/"
+ "/home/yuyihao/yuyihao/coldoc/accounts/"
+ "/home/yuyihao/yuyihao/coldoc/templates/"
+ "/home/yuyihao/neenopal/"
+ "/home/yuyihao/yuyihao/"
+ "/home/yuyihao/yuyihao/petshop/"
+ "/home/yuyihao/yuyihao/docs/"
+ "/home/yuyihao/yuyihao/petshop/petbros/"
+ "/home/yuyihao/yuyihao/petshop/notifications/"
+ "/home/yuyihao/yuyihao/petshop/pets/"
+ "/home/yuyihao/neenopal/ga4-auditor/ga4-auditor-backend-dev/"
+ "/home/yuyihao/yuyihao/love-spy/love_spy/accounts/"
+ "/home/yuyihao/yuyihao/love-spy/love_spy/auth/"
+ "/home/yuyihao/yuyihao/love-spy/"
+ "/home/yuyihao/yuyihao/love-spy/love_spy/love_spy/"
+ "/home/yuyihao/neenopal/github-action-sync/"
+ "/home/yuyihao/yuyihao/python-game/"
+ "/home/yuyihao/yuyihao/python-game/ping-pong/"
+ "/home/yuyihao/yuyihao/python-game/procedure-snake/"
+ "/home/yuyihao/yuyihao/screenshots-app/"
+ "/home/yuyihao/neenopal/auth/"
+ "/home/yuyihao/.dotfiles/i3/"
+ "/home/"
+ "/etc/"
+ "/lib/X11/x11perfcomp/"
+ "/home/yuyihao/neenopal/react-django-demo/frontend/"
+ "/home/yuyihao/neenopal/react-django-demo/frontend/src/componenets/"
+ "/home/yuyihao/neenopal/react-django-demo/frontend/src/pages/"
+ "/home/yuyihao/neenopal/react-django-demo/backend/backend/api/"
+ "/home/yuyihao/neenopal/react-django-demo/backend/backend/backend/"
+ "/home/yuyihao/neenopal/react-django-demo/frontend/src/"
+ "/home/yuyihao/neenopal/react-django-demo/"
+ "/home/yuyihao/neenopal/react-django-demo/backend/backend/"
+ "/home/yuyihao/yuyihao/nm-gui/"
+ "/home/yuyihao/neenopal/strip-new-arch/coupon_code_flow/"
+ "/home/yuyihao/neenopal/strip-new-arch/coupon_code_flow/coupon-stripe-test/coupon_code_app/"
+ "/home/yuyihao/neenopal/strip-new-arch/coupon_code_flow/coupon-stripe-test/"
+ "/home/yuyihao/"
+ "/home/yuyihao/neenopal/strip-new-arch/coupon_code_flow/coupon-stripe-test/coupon_code_flow/"
+ "/home/yuyihao/neenopal/strip-new-arch/coupon_code_flow/coupon-stripe-test/coupon_code_app/templates/"
+ "/home/yuyihao/neenopal/strip-new-arch/coupon_code_flow/coupon_code_flow/"
+ "/home/yuyihao/neenopal/strip-new-arch/coupon_code_flow/coupon_code_app/"
+ "/home/yuyihao/neenopal/auth/accounts/"
+ "/home/yuyihao/neenopal/strip-new-arch/"
+ "/home/yuyihao/.dotfiles/"
+ "/sudo:localhost:/etc/"
+ "/sudo:"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "edit_doc.html"
+ "profile.html"
+ "urls.py"
+ "views.py"
+ "signup.html"
+ "login.html"
+ "home.html"
+ "aadhar_kumar_resume.tex"
+ "settings.py"
+ "admin.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/yuyihao/yuyihao/coldoc/" (26434 12699 435225 208000) "tinymce.zip" "accounts/" "auth-admin.zip" "templates/" "documents/" "../" "coldoc/" ".venv/" "db.sqlite3" "manage.py" "./")
+
+ ("/home/yuyihao/yuyihao/coldoc/documents/" (26434 8502 259614 811000) "migrations/" "apps.py" "tests.py" "urls.py" "templates/" "views.py" "__pycache__/" "__init__.py" "../" "admin.py" "models.py" "./")
+
+ ("/home/yuyihao/yuyihao/coldoc/accounts/templates/" (26434 10146 392772 529000) "signup.html" "login.html" "../" "profile.html" "home.html" "./")
+
+ ("/etc/" (26434 7233 309561 641000) "udev/" "rc1.d/" "mailname" "odbc.ini" "fuse.conf" "sensors.d/" "rc3.d/" "shadow" "ssl/" "subgid" "selinux/" "crontab" "dbus-1/" "systemd/" "mailcap.order" "modprobe.d/" "subgid-" "aliases" "bash_completion" "rcS.d/" "cron.monthly/" "fonts/" "gshadow" "libaudit.conf" "calendar/" "ssh/" "pam.conf" "ca-certificates.conf" "X11/" "debconf.conf" "i3blocks.conf" "locale.gen" "mtab" "motd" "manpath.config" "i3/" "gai.conf" "libblockdev/" "cron.weekly/" "modules-load.d/" "gtk-3.0/" "ModemManager/" "chktexrc" "dictionaries-common/" "ld.so.conf" "ipp-usb/" "login.defs" "polkit-1/" "emacs/" "ethertypes" "modules" "xdg/" "sysctl.d/" "postgresql-common/" "libnl-3/" "perl/" "sysstat/" "appstream.conf" "plymouth/" "rpc" "ppp/" "kernel-img.conf" "hosts.allow" "rmt" "dhcp/" "e2scrub.conf" "terminfo/" "udisks2/" "rc0.d/" "skel/" "localtime" "sane.d/" "default/" "usb_modeswitch.d/" "pulse/" "UPower/" "cupshelpers/" "alternatives/" "gdb/" "chromium/" "hosts" "network/" "kernel/" "openni2/" "discover-modprobe.conf" "postgresql/" "email-addresses" "gss/" "cron.daily/" "nanorc" "sensors3.conf" "host.conf" "rc6.d/" "java-17-openjdk/" "apt/" "adjtime" "exim4/" "init.d/" "debuginfod/" "NetworkManager/" "xattr.conf" "cron.hourly/" "subuid-" "ld.so.cache" "os-release" "lightdm/" "networks" "console-setup/" "nsswitch.conf" "machine-id" "ImageMagick-6/" "chromium.d/" "nftables.conf" "binfmt.d/" "deluser.conf" "mysql/" "resolv.conf" "fstab" "texmf/" "odbcinst.ini" "bindresvport.blacklist" "sudoers" "cron.d/" "avahi/" "logcheck/" "subuid" "lighttpd/" "logrotate.d/" "shells" "python3/" "gtk-2.0/" "i3status.conf" "vim/" "ODBCDataSources/" "apache2/" "mailcap" "passwd" "papersize" "sysctl.conf" "hosts.deny" "sudoers.d/" "vulkan/" "profile.d/" "magic.mime" "services" "magic" "vdpau_wrapper.cfg" "ifplugd/" "timezone" "locale.alias" "sv/" "shadow-" "group" "bluetooth/" "openal/" "inputrc" "timidity/" "ldap/" "pam.d/" "opt/" "libpaper.d/" "mke2fs.conf" "rc4.d/" ".java/" "groff/" "chatscripts/" "mime.types" "w3m/" "issue" "LatexMk" "profile" "group-" "rc5.d/" "bash_completion.d/" ".pwd.lock" "ld.so.conf.d/" "cron.yearly/" "environment" "update-motd.d/" "usb_modeswitch.conf" "iproute2/" "reportbug.conf" "tmpfiles.d/" "apparmor.d/" "xml/" "passwd-" "rc2.d/" "hostname" "bash.bashrc" "ca-certificates/" "initramfs-tools/" "gshadow-" "ucf.conf" "security/" "slack.conf" "protocols" "netconfig" "ufw/" "glvnd/" "anacrontab" "issue.net" "grub.d/" "sgml/" "gssapi_mech.conf" "wpa_supplicant/" "python3.11/" "runit/" "sudo.conf" "logrotate.conf" "sudo_logsrvd.conf" "dpkg/" "adduser.conf" "discover.conf.d/" "gprofng.rc" "debian_version" "apparmor/" "wgetrc" "PackageKit/" "ghostscript/" "snmp/" "dconf/" "environment.d/" "alsa/" "../" "./")
+
+ ("/home/yuyihao/yuyihao/petshop/pets/" (26420 59666 546283 101000) "migrations/" "apps.py" "tests.py" "views.py" "__pycache__/" "__init__.py" "../" "admin.py" "models.py" "./")
+
+ ("/home/yuyihao/yuyihao/docs/" (26418 62820 607032 23000) "../" "aadhar_kumar_resume.tex" "./")
+
+ ("/home/yuyihao/yuyihao/petshop/" (26420 59878 495617 769000) "petrequests/" ".git/" "accounts/" "pets/" "README.md" "LICENSE" "../" "petbros/" "notifications/" ".venv/" "db.sqlite3" "manage.py" ".gitignore" "./")
+
+ ("/home/yuyihao/yuyihao/coldoc/documents/templates/" (26422 42921 120330 181000) "read_doc.html" "../" "edit_doc.html" "list_doc.html" "./")
+
+ ("/home/yuyihao/yuyihao/coldoc/templates/" (26433 65407 389152 718000) "base.html" "../" "./")
+
+ ("/home/yuyihao/yuyihao/coldoc/accounts/" (26419 6426 0 0) "migrations/" "apps.py" "tests.py" "urls.py" "templates/" "views.py" "__pycache__/" "__init__.py" "../" "admin.py" "models.py" "./")
+
+ ("/home/yuyihao/yuyihao/coldoc/coldoc/" (26419 4540 0 0) "wsgi.py" "urls.py" "__pycache__/" "asgi.py" "__init__.py" "../" "settings.py" "./")
+
+ ("/home/yuyihao/yuyihao/" (26427 27250 320565 883000) "seen_bar/" "screenshots-app/" "portforward/" "hackthon/" "boomer/" "nm-gui/" "python-game/" "petshop/" "third-party/" "python_dsa_book_sol/" "morse-code-site/" "../" "docs/" "spotaolne/" "coldoc/" "e-commerce/" "love-spy/" "./")
+
+ ("/home/yuyihao/" (26433 41353 423354 126000) "Music/" ".fehbg" ".pki/" ".tmux.conf" "Postman/" ".config/" ".nvm/" ".gtk-bookmarks" "EmacsBackups/" ".bashrc" ".xsession-errors.old" "Desktop/" ".profile" "Templates/" ".rustup/" "Documents/" ".smex-items" ".cache/" ".dmrc" ".sudo_as_admin_successful" ".dotfiles/" ".do.sh" "Downloads/" ".npm/" ".node_repl_history" ".gnupg/" "../" ".psql_history" "Pictures/" "image.ppm" ".bash_history" ".screenlayout/" ".Xauthority" ".emacs.d/" ".authinfo" ".rpmdb/" ".cargo/" ".zshrc" ".wget-hsts" ".ICEauthority" ".local/" "neenopal/" "Public/" ".choosenim/" "Videos/" ".xsession-errors" ".ssr/" ".pgadmin/" ".nimble/" ".viminfo" ".python_history" "yuyihao/" ".bash_logout" ".lesshst" ".ssh/" "./")
+
+ ("/home/yuyihao/yuyihao/love-spy/love_spy/accounts/" (26394 40446 80154 7000) "migrations/" "apps.py" "tests.py" "urls.py" "views.py" "__pycache__/" "__init__.py" "../" "admin.py" "models.py" "serializers.py" "./")
+
+ ("/home/yuyihao/yuyihao/petshop/petbros/" (26418 18812 617888 2000) "wsgi.py" "urls.py" "__pycache__/" "asgi.py" "__init__.py" "../" "settings.py" "./")
+
+ ("/home/yuyihao/yuyihao/petshop/notifications/" (26418 20409 61927 464000) "migrations/" "apps.py" "tests.py" "views.py" "__pycache__/" "__init__.py" "../" "admin.py" "models.py" "./")
+
+ ("/home/yuyihao/neenopal/ga4-auditor/ga4-auditor-backend-dev/" (26402 36001 558441 466000) "README.md" "analytics/" "sample.env" ".env" "../" "core/" "requirements.txt" "manage.py" ".gitignore" "users/" "./")
+
+ ("/home/yuyihao/neenopal/ga4-auditor/" (26402 35847 442353 760000) "ga4-auditor-backend-main.zip" "../" ".venv/" "demo-site/" "ga4-auditor-backend-dev.zip" "ga4-auditor-backend-dev/" "./")
+
+ ("/home/yuyihao/neenopal/" (26402 35472 730036 915000) "Postman/" "bills/" "postman-linux-x64.tar.gz" "blog/" ".env383/" "github-action-sync/" "auth/" "pgadmin4-8.10.tar.gz" "../" "dashboard/" "mokkup-ai-frontend/" "strip-new-arch/" "Python-3.8.3/" "react-django-demo/" "django-mfa/" "Python-3.8.3.tar.xz" "db_files/" "pgadmin4-8.10/" ".ssh/" "ga4-auditor/" "./")
+
+ ("/home/yuyihao/yuyihao/love-spy/love_spy/auth/" (26394 39605 470451 731000) "migrations/" "apps.py" "tests.py" "urls.py" "views.py" "__pycache__/" "__init__.py" "../" "admin.py" "models.py" "serializers.py" "./")
+
+ ("/home/yuyihao/yuyihao/love-spy/love_spy/" (26394 39690 223589 977000) "accounts/" "love_spy/" "auth/" "../" "manage.py" "./")
+
+ ("/home/yuyihao/yuyihao/love-spy/love_spy/love_spy/" (26394 39746 933657 223000) "wsgi.py" "urls.py" "__pycache__/" "asgi.py" "__init__.py" "../" "settings.py" "./")
+
+ ("/home/yuyihao/neenopal/github-action-sync/" (26386 14660 673119 919000) "dev_main.py" ".git/" "__pycache__/" "../" "admin_user.py" "./")
+
+ ("/home/yuyihao/yuyihao/love-spy/" (26394 35795 926374 671000) ".git/" "README.md" "LICENSE" "love_spy/" "../" ".venv/" ".gitignore" "./")
+
+ ("/home/yuyihao/.emacs.d/" (26386 14563 925453 159000) "ac-comphist.dat" "elpa/" "tramp" "ido.last" "eln-cache/" "#ido.last#" "../" "init.el~" "transient/" "init.el" "auto-save-list/" "./")
+
+ ("/home/yuyihao/neenopal/auth/accounts/" (26363 34633 152524 33000) "migrations/" "administrator/" "apps.py" "throttler.py" "urls.py" "views.py" "microservices/" "utils.py" "filters.py" "__init__.py" "../" "tests/" "admin.py" "services/" "custom_adapter.py" "models.py" "serializers.py" "tasks.py" "./")
+
+ ("/home/yuyihao/neenopal/auth/" (26363 48609 699015 104000) "Jenkinsfile" "emails/" "setup.sh" "chatbot/" "authservice/" "Dockerfile" "fixtures/" ".git/" "logs/" "accounts/" "templates/" "README.md" "popups/" "celery/" "Dockerfileauthcelery" ".DS_Store" "sample.env" "payment/" ".env" "../" "adminpanel/" "docker/" "notifications/" "requirements.txt" ".venv/" "manage.py" "workspace/" ".gitignore" "./")
+
+ ("/home/yuyihao/yuyihao/python-game/procedure-snake/" (26382 33374 219982 582000) "main.py" "../" "./")
+
+ ("/home/yuyihao/yuyihao/boomer/" (26300 8762 900441 683000) ".travis.yml" ".git/" "README.md" "src/" "LICENSE" "../" "overlay/" "default.nix" "demo.gif" "boomer.nimble" ".gitignore" "./")
+
+ ("/home/yuyihao/yuyihao/python-game/ping-pong/" (26365 4054 629309 732000) "main.py" "../" "./")
+
+ ("/home/yuyihao/yuyihao/python-game/" (26382 28799 35107 240000) "procedure-snake/" "ping-pong/" "../" ".venv/" "./")
+
+ ("/home/yuyihao/yuyihao/screenshots-app/" (26359 63796 737771 162000) "build.sh" ".git/" "screenshot" "README.md" "LICENSE" "screenshot.c" "runexample.sh" "example" "../" "image.ppm" "x11windowexample.c" ".gitignore" "./")
+
+ ("/home/yuyihao/.dotfiles/i3/" (26342 38059 799626 269000) "config" "i3cusstatus.sh" ".screenlayout.sh" "screenlayout.sh" "../" "i3status.sh" "#config#" "./")
+
+ ("/opt/" (26296 40785 912099 465000) "../" "google/" "./")
+
+ ("/sys/" (26330 1170 599999 997000) "module/" "block/" "firmware/" "bus/" "fs/" "hypervisor/" "dev/" "devices/" "class/" "power/" "kernel/" "../" "./")
+
+ ("/lib/X11/x11perfcomp/" (26299 44178 535996 150000) "perfratio" "Xmark" "../" "perfboth" "fillblnk" "./")
+
+ ("/lib/X11/" (26299 44178 527996 284000) "x11perfcomp/" "../" "xedit/" "./")
+
+ ("/lib/" (26322 37662 560181 924000) "init/" "valgrind/" "udev/" "libdfalt.so.0" "xserver-xorg-video-intel/" "libmfhdfalt.so.0.0.0" "kitty/" "grub/" "shim/" "ssl/" "GraphicsMagick-1.3.40/" "libmfhdfalt.so.0" "systemd/" "modprobe.d/" "libogdi.so.4" "debug/" "bfd-plugins/" "tcltk/" "discover/" "gvfs/" "sasl2/" "X11/" "cgi-bin/" "tcl8.6/" "libGraphicsMagick-Q16.so.3" "modules-load.d/" "firewalld/" "mime/" "linux-boot-probes/" "klibc/" "gnupg2/" "mupdf/" "runit-helper/" "libhardsid-builder.so.0" "polkit-1/" "libvpf.so.4.1" "emacs/" "modules/" "os-prober/" "policykit-1/" "sysctl.d/" "libvpf.so.4" "libarmadillo.so.11" "sysstat/" "libsidplay2.so.1.0.1" "compat-ld/" "sysusers.d/" "tk8.6/" "terminfo/" "udisks2/" "git-core/" "chromium/" "kernel/" "tclooConfig.sh" "postgresql/" "pm-utils/" "klibc-XX6cASCB7KZyJWpIJW79y94XHBY.so" "mypaint/" "apt/" "libhardsid-builder.so.0.0.1" "file/" "exim4/" "NetworkManager/" "locale/" "libGraphicsMagickWand-Q16.so.2.9.8" "gnome-settings-daemon-3.0/" "os-release" "menu-cache/" "libGraphicsMagick++-Q16.so.12" "emacsen-common/" "console-setup/" "pulse-16.1+dfsg1/" "dbus-1.0/" "pppd/" "binfmt.d/" "libsidplay2.so.1" "gcc/" "slack/" "xorg/" "gold-ld/" "os-probes/" "../" "python3/" "openssh/" "cpp" "x86_64-linux-gnu/" "apache2/" "libarmadillo.so.11.4.2" "sftp-server" "rpm/" "aspell/" "ifupdown/" "lsb/" "pkgconfig/" "libsupp.a" "sendmail" "llvm-14/" ".build-id/" "pam.d/" "groff/" "w3m/" "man-db/" "tkConfig.sh" "libresid-builder.so.0" "ogdi/" "tmpfiles.d/" "tasksel/" "libogdi.so.4.1" "girepository-1.0/" "firmware/" "python3.11/" "dpkg/" "gnupg/" "libresid-builder.so.0.0.1" "llvm-16/" "apparmor/" "libGraphicsMagickWand-Q16.so.2" "libGraphicsMagick++-Q16.so.12.7.0" "libGraphicsMagick-Q16.so.3.24.2" "libdfalt.so.0.0.0" "environment.d/" "./" "ispell/" "tclConfig.sh")
+
+ ("/home/yuyihao/neenopal/react-django-demo/frontend/src/" (26326 63354 545027 131000) "App.jsx" "main.jsx" "index.css" "assets/" "pages/" "../" "constants.js" "App.css" "api.js" "componenets/" "./")
+
+ ("/home/yuyihao/neenopal/react-django-demo/backend/backend/backend/" (26326 54774 161967 69000) "wsgi.py" "urls.py" "__pycache__/" "asgi.py" "__init__.py" "../" "settings.py" "./")
+
+ ("/home/yuyihao/neenopal/react-django-demo/backend/backend/api/" (26326 63355 681031 89000) "migrations/" "apps.py" "tests.py" "urls.py" "views.py" "__pycache__/" "utils.py" "__init__.py" "../" "admin.py" "models.py" "serializers.py" "./")
+
+ ("/home/yuyihao/neenopal/react-django-demo/frontend/src/componenets/" (26327 55172 304350 77000) "../" "ProtectedRoute.jsx" "Forms.jsx" "Products.jsx" "./")
+
+ ("/home/yuyihao/neenopal/react-django-demo/frontend/src/pages/" (26326 58928 779665 858000) "Home.jsx" "Login.jsx" "Entry.jsx" "../" "NotFound.jsx" "Register.jsx" "./")
+
+ ("/home/yuyihao/neenopal/react-django-demo/backend/backend/" (26326 62386 137633 912000) "backend/" "api/" ".env" "../" "requirements.txt" ".venv/" "db.sqlite3" "manage.py" "./")
+
+ ("/home/yuyihao/neenopal/react-django-demo/frontend/" (26326 39525 740136 216000) "eslint.config.js" "package.json" "README.md" "src/" "vite.config.js" "index.html" ".env" "../" "node_modules/" "package-lock.json" "public/" "./")
+
+ ("/home/yuyihao/neenopal/react-django-demo/" (26326 7036 309210 654000) ".git/" "README.md" "frontend/" "backend/" "../" ".gitignore" "./")
+
+ ("/home/yuyihao/neenopal/strip-new-arch/coupon_code_flow/coupon-stripe-test/coupon_code_app/" (26316 27544 725404 843000) "migrations/" "apps.py" "tests.py" "urls.py" "templates/" "views.py" "__pycache__/" "utils.py" "__init__.py" "../" "admin.py" "models.py" "serializers.py" "./")
+
+ ("/home/yuyihao/yuyihao/nm-gui/" (26323 3449 657606 789000) "../" "main.c" "#main.c#" "main" "./")
+
+ ("/home/yuyihao/neenopal/react-django-demo/backend/" (26325 64924 877258 702000) "backend/" "../" "./")
+
+ ("/home/yuyihao/.dotfiles/" (26314 48326 227988 517000) "profile-pic.jpg" ".git/" "i3/" ".config/" "../" ".emacs.d/" ".zshrc" "./")
+
+ ("/home/yuyihao/neenopal/strip-new-arch/coupon_code_flow/coupon-stripe-test/coupon_code_app/templates/" (26311 65235 442827 324000) "payment-form.html" "../" "./")
+
+ ("/home/yuyihao/neenopal/strip-new-arch/coupon_code_flow/coupon-stripe-test/coupon_code_flow/" (26311 64687 592384 648000) "wsgi.py" "urls.py" "__pycache__/" "asgi.py" "__init__.py" "../" "settings.py" "./")
+
+ ("/home/yuyihao/neenopal/strip-new-arch/coupon_code_flow/coupon-stripe-test/" (26312 13961 50005 77000) ".git/" "coupon_code_app/" "README.md" "coupon_code_flow/" ".env" "../" "db.sqlite3" "manage.py" ".gitignore" "./")
+
+ ("/home/yuyihao/neenopal/strip-new-arch/coupon_code_flow/" (26311 19443 696171 771000) "coupon-stripe-test/" "../" "./")
+
+ ("/home/yuyihao/neenopal/strip-new-arch/coupon_code_flow/coupon_code_app/" (26311 8601 632773 375000) "migrations/" "apps.py" "tests.py" "urls.py" "views.py" "__pycache__/" "__init__.py" "../" "admin.py" "models.py" "serializers.py" "./")
+
+ ("/home/yuyihao/neenopal/strip-new-arch/coupon_code_flow/coupon_code_flow/" (26311 6448 410893 195000) "wsgi.py" "urls.py" "__pycache__/" "asgi.py" "__init__.py" "../" "settings.py" "./")
+
+ ("/home/yuyihao/neenopal/strip-new-arch/" (26311 3406 757921 76000) ".evnv/" "Coupon Code Flow (1).pdf" "coupon_code_flow/" "../" "./")
+
+ ("/home/yuyihao/Downloads/" (26310 63301 113288 62000) "slack-4.39.95-0.1.el8.x86_64.rpm" "opera-stable_112.0.5197.53_amd64.deb" "emacs-backup.zip" "PkgTTC-Iosevka-31.2.0.zip" "emacs-config/" "zshrc" "pgadmin4-8.10.tar.gz" "../" "profile" "config-backup.zip" "config-backup/" "google-chrome-stable_current_amd64 (1).deb" "Python-3.8.3.tar.xz" "./")
+
+ ("/usr/bin/" (26310 62436 372045 316000) "createuser" "showrgb" "po2debconf" "nawk" "mm2gv" "mt-gnu" "llvm-readobj" "esvalidate" "localectl" "basename" "jq" "stest" "bzmore" "git-upload-pack" "pidwait" "gouldtoppm" "pamcat" "acyclic" "llvm-cvtres-14" "rxvt" "hex2hcd" "xclipboard" "systemd-machine-id-setup" "llvm-objcopy-14" "xstdcmap" "cpan" "avahi-publish-address" "pnmhistmap" "linux-update-symlinks" "llvm-dis-14" "networkctl" "gml2gv" "lsblk" "urxvtcd" "conjure" "pfbtopfa" "x11perf" "infotocap" "cksum" "systemd-ask-password" "chage" "fmt" "unexpand" "perl5.36-x86_64-linux-gnu" "zforce" "prune" "tabbed.meta" "ppmtopjxl" "pamtohdiff" "telnet" "dm-tool" "lsns" "setleds" "unlzma" "zipnote" "paperconf" "grub-file" "dh_autoreconf_clean" "fc-conflist" "pamtompfont" "google-chrome-stable" "ijoin" "xclock" "from" "kiconfinder5" "fonttosfnt" "dh_installpam" "zstdcat" "pbmtog3" "dot2gxl" "terser" "pavucontrol" "base64" "nano" "display-im6" "rasttopnm" "llvm-cfi-verify" "rimraf" "mrftopbm" "ybmtopbm" "run-mailcap" "ipcrm" "FileCheck-14" "pbmminkowski" "mdig" "gcc-nm" "pamhomography" "msgcomm" "dh_installcatalogs" "aspell-import" "tar" "pammasksharpen" "pbmtoescp2" "mountpoint" "babeljs-parser" "gts2dxf" "setkeycodes" "pkaction" "llvm-tli-checker-14" "vmwarectrl" "hmac256" "pydoc3.11" "c89" "diffimg" "fakeroot" "dh_listpackages" "llvm-c-test" "cp" "pgmdeshadow" "pnmenlarge" "gpg-agent" "df" "printafm" "png-fix-itxt" "xdg-icon-resource" "rawtopgm" "llvm-ranlib" "xdg-user-dirs-update" "getconf" "view" "pammosaicknit" "grub-mkfont" "genbrk" "dh_dwz" "icombine" "graphml2gv" "vacuumlo" "brightnessctl" "pbmtopgm" "ps2ps" "debconf-gettextize" "ncurses6-config" "i3status" "tr" "ppmtompeg" "llvm-dis" "tap-parser" "dircolors" "cjpeg" "install-printerdriver" "uniq" "pnmtojpeg" "scriptlive" "dpkg-statoverride" "ppmtopj" "run-with-aspell" "ls" "pngtopnm" "chfn" "rview" "pg_dumpall" "g++" "droplang" "xeyes" "x86_64-linux-gnu-c++filt" "podebconf-report-po" "printf" "crontab" "dh_installxmlcatalogs" "i3-sensible-pager" "enc2xs" "xwud" "x86_64-linux-gnu-nm" "cpio-filter" "udevadm" "nl" "eject" "x86_64-linux-gnu-python3-config" "ps2pdfwr" "mailx" "dbus-run-session" "frm.mailutils" "hciattach" "icuinfo" "gvmap.sh" "pgmoil" "gcr-viewer" "xdg-mime" "grub-editenv" "cvtsudoers" "pamedge" "perlthanks" "col" "systemd" "llvm-undname" "debconf-updatepo" "pbmtoptx" "import-im6" "pkcheck" "shred" "wc" "ccomps" "oclock" "x86_64-linux-gnu-ld.gold" "more" "mpicalc" "runcon" "rctest" "ntfsrecover" "eyuvtoppm" "pbmtomrf" "x86_64-linux-gnu-gcc-12" "tap-mocha-reporter" "pdb3.11" "sftp" "dh_systemd_start" "x86_64-linux-gnu-gprof" "zdump" "img2txt" "x86_64-linux-gnu-gp-collect-app" "gcc-ar" "llvm-cat-14" "dh_gencontrol" "logname" "pampaintspill" "dh_installmime" "dh_installlogrotate" "kbuildsycoca5" "chsh" "qrcode-terminal" "dirmngr" "st4topgm" "vdir" "grub-mkstandalone" "pgmtosbig" "pg_basebackup" "gsnd" "cameratopam" "ppmlabel" "migrate-pubring-from-classic-gpg" "pnmscalefixed" "avahi-resolve-address" "f2py" "prtstat" "mimetype" "pidof" "lslogins" "pg_backupcluster" "dh_installinitramfs" "pbmtonokia" "unzstd" "comm" "POST" "x86_64-linux-gnu-strip" "sudoedit" "rm" "curl-config" "verify-uselistorder" "resizecons" "pampop9" "dh_auto_configure" "sha512sum" "discover-config" "vmstat" "ldd" "dpkg-parsechangelog" "addr2line" "pamwipeout" "pgmkernel" "efibootmgr" "ssh" "top" "delpart" "snice" "gts-config" "lto-dump-12" "dh_usrlocal" "pidstat" "x86_64-linux-gnu-gcov-dump-12" "babeljs-external-helpers" "llvm-ifs-14" "pod2usage" "mdatopbm" "djpeg" "escp2topbm" "llvm-cat" "pamarith" "pg_lsclusters" "llc" "install" "llvm-lto" "opera" "manpath" "pacmd" "json_pp" "system-config-printer" "swarp" "infocmp" "pnmstitch" "dh_systemd_enable" "lft.db" "pnmremap" "kbd_mode" "X11/" "montage-im6.q16" "nc" "hciconfig" "ps2ps2" "pbmtextps" "pktopbm" "imagetops" "kpackagetool5" "x86_64-linux-gnu-objcopy" "dpkg-trigger" "msgunfmt" "kbookmarkmerger" "xkbbell" "ppmtomap" "awk" "jpeg2ktopam" "scriptreplay" "projsync" "dh_compress" "avahi-resolve" "pgmtopgm" "numfmt" "pamtoxvmini" "pamlookup" "lessecho" "debconf-show" "gtf" "gendiff" "head" "pnmmercator" "rpmspec" "update-desktop-database" "ppmtopcx" "systemd-tmpfiles" "as" "nc.traditional" "strings" "traceroute6.db" "cistopbm" "dropuser" "llvm-tblgen-14" "dbus-cleanup-sockets" "i3-input" "pamundice" "munchlist" "sanstats-14" "pamunlookup" "twopi" "busctl" "pbmpscale" "llvm-as-14" "gvpr" "llvm-lib-14" "llvm-readelf" "isdv4-serial-debugger" "dotlockfile" "systemd-firstboot" "htdbm" "jpegexiforient" "dh_installsystemd" "llvm-bcanalyzer-14" "tbl" "pnmfile" "gnome-keyring-daemon" "llvm-readobj-14" "llvm-profdata-14" "debconf-set-selections" "chardet" "grog" "dh_assistant" "desktop-file-install" "stty" "lsipc" "xml2-config" "imgtoppm" "llvm-tapi-diff-14" "ppmtopict" "ilbmtoppm" "dh_installifupdown" "mk_modmap" "projinfo" "pbmtoibm23xx" "arch" "i3" "traceproto" "pnmtoxwd" "ps2ascii" "ntfscluster" "handlebars" "pamtopam" "sgitopnm" "JxrDecApp" "git-shell" "pamtopfm" "prove" "systemd-analyze" "gp-display-src" "b2sum" "dh_builddeb" "ucs2any" "dpkg-source" "dpkg-genbuildinfo" "gsbj" "ppmtoilbm" "cpio" "llvm-cxxmap-14" "pbmreduce" "checkgid" "chardetect" "dpkg-scanpackages" "pbmmask" "mawk" "systemd-id128" "mpris-proxy" "hd" "llvm-lto2" "pkg-config" "dumpsexp" "pamtotga" "ppmrainbow" "ionice" "tee" "xssstate" "gie" "edit" "urxvtc" "link" "pasuspender" "traceproto.db" "pnmcomp" "dh_perl" "umount" "ppmquantall" "zmore" "ifnames" "systemd-tty-ask-password-agent" "sha1sum" "dig" "pbmpage" "clusterdb" "date" "xdg-email" "yaml2obj" "llvm-diff-14" "pnmarith" "clear" "pjtoppm" "zcat" "ppmtoterm" "findaffix" "dmenu_path" "chvt" "readelf" "xvidtune" "make-first-existing-target" "findmnt" "llvm-profdata" "nsenter" "ppmhist" "pydoc3" "dh_installudev" "getent" "avahi-publish" "pygettext3.11" "rgrep" "ip" "pbmtomda" "fcgistarter" "scalar" "linux32" "pbmtogem" "pinentry-curses" "json5" "tabbed" "zipcloak" "pcmanfm" "acorn" "ppmntsc" "nroff" "zstdgrep" "c_rehash" "listres" "x86_64-linux-gnu-gcov-dump" "perlbug" "geqn" "sed" "mingle" "find-debuginfo" "mkfontscale" "bash" "llvm-xray-14" "x86_64-linux-gnu-gcov-tool" "www-browser" "pnmtopclxl" "xkill" "gsdj500" "qoitopam" "git" "pnmshear" "tapestat" "bmtoa" "wget" "llvm-reduce" "pbmtoplot" "gnome-keyring" "llvm-as" "llvm-libtool-darwin-14" "compare-im6.q16" "zstd" "iconv" "pnmhisteq" "ssh-copy-id" "x86_64-linux-gnu-cpp" "lowntfs-3g" "i3-nagbar" "zeisstopnm" "llvm-PerfectShuffle-14" "sadf" "msgfilter" "dh_installexamples" "tryaffix" "arborist" "vi" "X" "paplay" "usbreset" "echo" "pgmcrater" "which.gnu" "streamzip" "factor" "md5sum" "pamvalidate" "xsetwacom" "ntfssecaudit" "nice" "pg_dump" "x86_64-linux-gnu-pkg-config" "pg_archivecleanup" "gcov-12" "pamgetcolor" "pbmtopk" "pbmtolps" "scp" "pnmtorast" "f2py3.11" "pbmclean" "dpkg-split" "x86_64-linux-gnu-pkgconf" "bunzip2" "gcov" "hpcdtoppm" "macptopbm" "zipsplit" "openvt" "llvm-debuginfod-find-14" "nproc" "rdma" "grub-mknetdir" "debianbts" "pamditherbw" "krb5-config.mit" "ppmdist" "x86_64-linux-gnu-readelf" "x86_64-linux-gnu-lto-dump" "pampick" "realpath" "xdg-settings" "escodegen" "ptar" "dh_installxfonts" "xdriinfo" "not-14" "node" "xlogo" "dijkstra" "xhost" "pinky" "libnetcfg" "mkdir" "msginit" "dh_numpy3" "rbash" "pg_virtualenv" "compile_et" "movemail" "kactivities-cli" "dex" "sh" "nstat" "llvm-mc" "cloc" "systemsettings" "emacs" "systemd-cgls" "pamstretch-gen" "ctstat" "hardlink" "dbus-monitor" "pnmsmooth" "sessreg" "h2ph" "hexdump" "mogrify-im6.q16" "pphs" "ssh-add" "llvm-strip-14" "mypaint-ora-thumbnailer" "hostnamectl" "gzexe" "pactl" "os-prober" "dash" "pg_renamecluster" "wish" "unzip" "nm" "llvm-dlltool-14" "lwp-dump" "pnmcut" "emacsclient.emacs" "apt-get" "pamsharpmap" "rendercheck" "bzip2" "memusage" "word-list-compress" "genrb" "node-gyp" "zipinfo" "urxvtd" "colcrt" "msgcmp" "gtk-builder-tool" "tclsh" "pnmsplit" "llvm-addr2line" "unxrandr" "llvm-modextract-14" "i3-sensible-terminal" "import" "llvm-strip" "nodejs" "dh_auto_clean" "x86_64-linux-gnu-ar" "xzless" "trust" "perl" "dunst" "dirmngr-client" "ppmtouil" "pamsumm" "deb-systemd-invoke" "kritarunner" "svgtopam" "browserslist" "pf2afm" "pinentry-gnome3" "gpgconf" "ppmdim" "xconsole" "column" "qvlc" "nsupdate" "x86_64-linux-gnu-gp-archive" "rdjpgcom" "i386" "llvm-symbolizer" "rpmgraph" "ppmdmkfont" "chmod" "dh_missing" "thinkjettopbm" "ntfsfallocate" "llvm-pdbutil" "neqn" "laptop-detect" "scp-dbus-service" "sync" "unxz" "xwdtopnm" "pgmtopbm" "pgmbentley" "zdiff" "ppmtospu" "slabtop" "hostid" "animate" "cs2cs" "plymouth" "fold" "dunstify" "xmessage" "dh_installcron" "ppmnorm" "npm" "pgrep" "mogrify-im6" "apt-cache" "x86_64" "sixel2png" "false" "nisdomainname" "vimtutor" "x86_64-linux-gnu-gp-display-src" "ppmchange" "konsoleprofile" "pamcut" "dotty" "m17n-db" "pa-info" "palmtopnm" "sum" "pnmpsnr" "llvm-ranlib-14" "openssl" "pbmtogo" "bitmap" "gs" "ntfsinfo" "pamexec" "nvlc" "llvm-c-test-14" "babeljs" "yes" "lsinitramfs" "identify-im6.q16" "llvm-symbolizer-14" "systemd-notify" "catman" "411toppm" "dpkg-deb" "pnmtopnm" "dotlock" "install-info" "ppmtoeyuv" "deb-systemd-helper" "ncursesw6-config" "linux64" "xcursorgen" "llvm-mt-14" "cacaview" "gpgsplit" "gsdj" "composite-im6" "urxvt" "x86_64-linux-gnu-size" "dh_installinfo" "llvm-xray" "semver" "stream-im6" "traceroute" "pamflip" "llvm-size-14" "shuf" "pslog" "llvm-rc" "print" "dh_installwm" "gts2xyz" "neato" "ucfr" "pbmtomatrixorbital" "xgc" "babeljs-7" "ppmglobe" "rxvt-unicode" "pg_conftool" "nop" "from.mailutils" "llvm-opt-report" "encguess" "xbmtopbm" "chrt" "dbus-send" "gpg-zip" "rpmquery" "xwd" "ktelnetservice5" "x86_64-linux-gnu-lto-dump-12" "xzcmp" "tgatoppm" "od" "ntfscat" "corelist" "bioradtopgm" "pod2text" "dh_installdirs" "psfstriptable" "pamtoqoi" "vimdiff" "llvm-strings-14" "psidtopgm" "pager" "msgconv" "i3-save-tree" "dh_autoreconf" "obj2yaml-14" "opt-14" "xss-lock" "parec" "dsymutil" "pinentry" "GET" "mapscrn" "x86_64-linux-gnu-gcc-nm" "kbxutil" "apropos" "ppmfade" "iceauth" "mount" "x86_64-linux-gnu-ranlib" "start-pulseaudio-x11" "ps2txt" "spotify" "ppmtoleaf" "kwriteconfig5" "gdb-add-index" "mcookie" "gdb" "sha256sum" "fc-match" "gencfu" "x86_64-linux-gnu-gp-display-html" "emacs-gtk" "chromium" "linux-check-removal" "x-terminal-emulator" "sfdp" "gdk-pixbuf-thumbnailer" "look" "readmsg" "kde-geo-uri-handler" "ppmforge" "sselp" "tload" "last" "ps2pdf14" "lnstat" "systemd-hwdb" "psfaddtable" "whoami" "gettext" "strip" "ntfswipe" "dh_installmodules" "dropdb" "tap" "ktrash5" "vim.tiny" "dpkg-scansources" "getkeycodes" "pamdepth" "spottopgm" "pg_receivexlog" "dh_bash-completion" "setupcon" "dh_prep" "pg_restorecluster" "pamshadedrelief" "pamchannel" "icuexportdata" "ntfs-3g" "pbmtowbmp" "count-14" "obexctl" "js-yaml" "mgrtopbm" "zip" "pbmto4425" "c99-gcc" "exifautotran" "pkill" "xfd" "pgmtexture" "gp-display-html" "x11perfcomp" "sbigtopgm" "pstree.x11" "x86_64-linux-gnu-as" "ssh-keyscan" "xkbwatch" "urclock" "pnmnoraw" "xzcat" "xcalc" "xset" "llvm-profgen-14" "x86_64-linux-gnu-gcc-ranlib-12" "ntfstruncate" "rtstat" "gc" "alien" "pwd" "xrandr" "xkbprint" "lesskey" "mypaint" "tsort" "lispmtopgm" "llvm-extract" "uncompress" "istanbul" "dh_strip_nondeterminism" "pacote" "busybox" "namei" "ab" "xmlsec1-config" "opener" "pcdindex" "libpng-config" "faillog" "pg_isready" "llvm-stress-14" "crc32" "autoreconf" "ping4" "btmgmt" "w3mman" "addpart" "llvm-reduce-14" "reportbug" "gtscompare" "pamtoavs" "pfmtopam" "cmp" "gcov-tool" "conjure-im6.q16" "pbmtoln03" "llvm-objdump-14" "peekfd" "who" "p11-kit" "gtk-query-settings" "systemd-detect-virt" "pamtopdbimg" "systemd-cryptenroll" "xcutsel" "avahi-resolve-host-name" "apt" "ppmtoppm" "x86_64-linux-gnu-cpp-12" "gyp" "pldd" "grub-fstest" "mail.mailutils" "apt-mark" "pamtohtmltbl" "dh_auto_install" "gcov-dump" "rpmdb" "pamrubber" "mimeview" "bzip2recover" "whatis" "mtrace" "pamx" "file" "jbigtopnm" "seq" "script" "msguniq" "groups" "cifsiostat" "xzfgrep" "precat" "watch" "pnmindex" "printenv" "llvm-PerfectShuffle" "npx" "ppmrough" "yarn" "ld.so" "x86_64-linux-gnu-g++" "ld.gold" "identify" "dpkg-genchanges" "llvm-jitlink-executor-14" "i3-config-wizard" "rpm2archive" "pamtojpeg2k" "usb-devices" "locale" "ppmtosixel" "lsmem" "tic" "esgenerate" "msgexec" "gatttool" "circo" "ppmtogif" "wmname" "which.debianutils" "gnome-keyring-3" "ppmtobmp" "dh_installsysusers" "pbmtodjvurle" "rfcomm" "llvm-dwp-14" "img2sixel" "fc-list" "sg" "cacaserver" "gzip" "ntfs-3g.probe" "nohup" "dbus-update-activation-environment" "xzgrep" "edgepaint" "xcmsdb" "mt" "grub-mkimage" "preunzip" "pnmtotiff" "pbmtoxbm" "rgb3toppm" "piconv" "pygmentize" "pbmtosunicon" "gpgsm" "sccmap" "tabbed.default" "xvinfo" "llvm-lipo-14" "lzcmp" "babeljs-7-parser" "tail" "dpkg-buildflags" "ppmtorgb3" "x86_64-linux-gnu-gp-display-text" "dh_installsystemduser" "pamtowinicon" "x86_64-linux-gnu-objdump" "pbmtoascii" "lzcat" "libtoolize" "ppmtoyuvsplit" "dh_installdebconf" "login" "dumpkeys" "avahi-browse-domains" "inetutils-telnet" "systemsettings5" "skill" "pamoil" "makeconv" "join" "x86_64-linux-gnu-elfedit" "toilet" "conjure-im6" "efibootdump" "avahi-browse" "gv2gxl" "c99" "linux-boot-prober" "ppmrelief" "xpmtoppm" "xzmore" "helpztags" "llvm-objdump" "spctoppm" "llvm-tblgen" "ntfsls" "lastb" "update-alternatives" "ntfscmp" "prezip" "x86_64-linux-gnu-ld.bfd" "debconf-communicate" "lxpolkit" "identify-im6" "screendump" "pstopnm" "dpkg-vendor" "xmore" "gprofng" "x-window-manager" "rpcgen" "pamrestack" "faked-sysv" "ngettext" "delv" "pbmupc" "xargs" "dh_lintian" "pbmtopi3" "pamtilt" "dh_installmenu" "composite-im6.q16" "xmodmap" "llvm-mc-14" "babeljs-node" "systemd-umount" "gcc" "pnmcrop" "wrjpgcom" "dh_testroot" "node-coveralls" "pamtable" "pamsistoaglyph" "xdg-open" "systemd-sysext" "anytopnm" "pbmtobbnbg" "slack" "chattr" "ppmcie" "bzegrep" "aclocal" "pacat" "fstopgm" "bzcmp" "pdb3" "dot_builtins" "sleep" "xzegrep" "setpriv" "etags" "mv" "sprof" "g++-12" "pbmlife" "lli" "llvm-dwarfdump" "pbmtocmuwm" "buildhash" "autoconf" "emacsclient" "pgmtofs" "xkeystone" "ppm3d" "ispell-wrapper" "touch" "pgmmake" "znew" "pbmtoybm" "bdftruncate" "compare-im6" "zegrep" "pamhue" "winicontoppm" "pl2pm" "ptardiff" "kwallet-query" "ppmshift" "pgmenhance" "udisksctl" "ginstall-info" "pamfix" "pgmedge" "size" "env" "pambackground" "dwz" "dbus-uuidgen" "x86_64-linux-gnu-g++-12" "bzless" "run-parts" "cacaplay" "apt-key" "dwp" "ppmdraw" "killall" "readmsg.mailutils" "rvlc" "memusagestat" "systemd-creds" "llvm-rtdyld" "lefty" "fgrep" "pnmalias" "paste" "fitstopnm" "esparse" "rpmkeys" "sha224sum" "figlet" "dh_fixperms" "mtvtoppm" "pamgauss" "google-chrome" "padsp" "pamseq" "pgmramp" "lcf" "ppmcolors" "lsmod" "slogin" "splain" "cacaclock" "gendict" "lli-14" "lft" "i3-dmenu-desktop" "dh_installchangelogs" "cpp-12" "lsb_release" "rletopnm" "fc-scan" "pgmtost4" "mesa-overlay-control.py" "pambrighten" "m4" "pamtotiff" "ppmtopi1" "systemd-socket-activate" "savelog" "xsetroot" "leaftoppm" "llvm-nm-14" "pnmdepth" "id" "gpgcompose" "wscat" "pnmpaste" "dh_installman" "tred" "editres" "desktop-file-validate" "python3-config" "pnmtoplainpnm" "pygettext3" "cluster" "pambayer" "hdifftopam" "loadunimap" "llvm-size" "pkttyagent" "python3" "xdpyinfo" "ncurses5-config" "sha384sum" "sieve" "ppmtv" "x86_64-linux-gnu-gcov-tool-12" "mimeopen" "bzcat" "createdb" "grub-glue-efi" "pnmnlfilt" "kreadconfig5" "pax11publish" "llvm-cxxdump" "ppmtopuzz" "ischroot" "reindexdb" "ps" "display" "stat" "vim" "tabs" "f2py3" "pbmtoicon" "llvm-otool-14" "ppmbrighten" "gold" "kpackagelauncherqml" "llvm-extract-14" "cpp" "eslint" "pwdx" "pbmtolj" "xlsfonts" "compare" "pamstereogram" "tjbench" "grub-kbdcomp" "frm" "dunstctl" "pammixinterlace" "llvm-gsymutil-14" "llvm-config-14" "mogrify" "mokutil" "less" "xev" "protocoltojson" "gcc-12" "gencnval" "x86_64-linux-gnu-gcc-ranlib" "gvgen" "pamslice" "stream-im6.q16" "diff" "grub-mklayout" "pnmtoddif" "llvm-addr2line-14" "grub-mkrescue" "gtstemplate" "x86_64-linux-gnu-ld" "lzmainfo" "srftopam" "iostat" "gcc-ranlib-12" "preparetips5" "patch" "konsole" "passwd" "krita" "ld" "git-upload-archive" "renice" "pgmnorm" "base32" "python3.11-config" "gvpack" "pgmslice" "pamgradient" "pulseaudio" "logger" "lsfd" "llvm-cxxdump-14" "pod2html" "soelim" "bugpoint-14" "x86_64-linux-gnu-gold" "isdv4-serial-inputattach" "messages.mailutils" "sar" "pgmmedian" "tac" "dmenu_run" "ppmtojpeg" "nanoid" "pamdeinterlace" "ximtoppm" "parecord" "gpic" "pnmtofiasco" "sepdebugcrcfix" "msgmerge" "debconf-copydb" "bzdiff" "llvm-modextract" "rsync" "lneato" "rawtoppm" "jp2a" "svlc" "llvm-split" "diff3" "bmptoppm" "utmpdump" "dpkg-distaddfile" "bzexe" "pbmtox10bm" "tzselect" "traceroute.db" "pdf2dsc" "cmdtest" "gpg-wks-server" "dh_update_autotools_config" "ppmdither" "mandb" "pamtris" "vimdot" "pico" "llvm-diff" "setpci" "rvim" "convert" "unzipsfx" "appres" "resizepart" "querybts" "intel-virtual-output" "llvm-cov" "btmon" "pamaddnoise" "llvm-lib" "dpkg-architecture" "pnmnorm" "debconf-apt-progress" "i3-msg" "mesg" "fgconsole" "pbmtoepson" "xedit" "gmic_krita_qt" "pnmmontage" "fc-cat" "debugedit" "py3versions" "systemd-inhibit" "createlang" "kded5" "pg_config.libpq-dev" "kernel-install" "dd" "rpm" "pnmtotiffcmyk" "pg_recvlogical" "aspell" "jpegtran" "gpgparsemail" "uptime" "egrep" "llvm-split-14" "rename.ul" "fusermount" "bcomps" "lzdiff" "systemd-delta" "llvm-bcanalyzer" "dh" "ctags" "xprop" "pkgconf" "lzgrep" "gxl2dot" "dh_md5sums" "fakeroot-sysv" "rpmbuild" "gcov-tool-12" "usbhid-dump" "pnmscale" "autoscan" "HEAD" "gdbtui" "dh_autotools-dev_updateconfig" "grub-render-label" "llvm-dwarfdump-14" "ddbugtopbm" "infotopam" "pnmquant" "gemtopbm" "xrefresh" "x86_64-linux-gnu-gcov" "sudoreplay" "xdg-screensaver" "llvm-cfi-verify-14" "clear_console" "systemd-cat" "geod" "ppmtotga" "pg_config" "dmesg" "dpkg-mergechangelogs" "pgmabel" "sensible-browser" "setxkbmap" "c++filt" "colrm" "gvmap" "etags.emacs" "llvm-mt" "babeljs-7-node" "netcat" "sensible-editor" "kwalletd5" "llvm-bitcode-strip-14" "eps2eps" "[" "llvm-jitlink-14" "decodemail" "kbdinfo" "ppmtoapplevol" "preconv" "expiry" "i3-sensible-editor" "htpasswd" "expand" "llvm-stress" "pamsplit" "llvm-rc-14" "wdctl" "json_xs" "setvtrgb" "unicode_start" "lto-dump" "ps2pdf12" "markdown_py" "uconv" "ptx" "partx" "bluemoon" "llvm-cxxfilt-14" "delaunay" "jsesc" "dh_installgsettings" "arandr" "pg_restore" "apt-config" "l2test" "xauth" "watchgnupg" "avahi-set-host-name" "xsetmode" "ppmtoneo" "pnmquantall" "xkbcomp" "gtbl" "mknod" "flock" "split-file-14" "xvminitoppm" "patchwork" "pamenlarge" "transset" "uname" "pamlevels" "gtk-launch" "readlink" "gslj" "pamperspective" "cpan5.36-x86_64-linux-gnu" "pngfix" "gettext.sh" "dh_auto_test" "pod2man" "ssh-agent" "tset" "pbmtocis" "setfont" "py3compile" "pgmtolispm" "pdbimgtopam" "gprof" "pnmtile" "ppmtolj" "dh_shlibdeps" "xlsatoms" "cut" "su" "opt" "lwp-request" "aa-features-abi" "x86_64-linux-gnu-gprofng" "pgmtoppm" "dh_strip" "man-recode" "lscpu" "pbmtozinc" "pnmcat" "apt-extracttemplates" "dir" "chgrp" "captoinfo" "localedef" "llvm-cov-14" "ssid" "systemd-path" "dh_installalternatives" "lspgpot" "make" "stream" "proxy" "dh_install" "groff" "yuvtoppm" "sputoppm" "cmuwmtopbm" "pnmtopalm" "x86_64-linux-gnu-gcc-nm-12" "rrsync" "x86_64-linux-gnu-strings" "split" "pnmcolormap" "pamthreshold" "bashbug" "llvm-opt-report-14" "gv2gml" "pamcomp" "normalizer" "pdf2ps" "setterm" "whereis" "llvm-readelf-14" "keditbookmarks" "stdbuf" "apt-sortpkgs" "pg_createcluster" "fusermount3" "llvm-config" "kmod" "pg_receivewal" "transform" "bugpoint" "montage" "stl2gts" "pgmmorphconv" "JxrEncApp" "chafa" "free" "gencat" "kglobalaccel5" "w3m" "llvm-install-name-tool-14" "xslt-config" "pamtosvg" "instmodsh" "dh_link" "grub-mount" "ps2pdf13" "pbmtext" "lastlog" "cat" "llvm-windres-14" "pamfile" "report-hw" "ppmshadow" "msggrep" "hcitool" "ssh-argv0" "gp-archive" "luit" "mktemp" "unlink" "codepage" "cc" "loginctl" "editor" "ppmddumpfont" "dh_installdocs" "pamrecolor" "llvm-ar" "pgmnoise" "ipcs" "sensible-pager" "pbmmake" "grotty" "llvm-link" "true" "wall" "debconf" "dnstap-read" "llvm-rtdyld-14" "dvipdf" "rlatopam" "funzip" "ppmtowinicon" "xsetpointer" "apt-cdrom" "compose" "grub-menulst2cfg" "loadkeys" "fc-query" "unshare" "pg_upgradecluster" "mail" "wbmptopbm" "pathchk" "grops" "llvm-dlltool" "llvm-link-14" "atobm" "dpkg-checkbuilddeps" "pngtopam" "faked-tcp" "pamrgbatopng" "defmt-c" "w" "tcltk-depends" "xsubpp" "lzless" "gts2stl" "desktop-file-edit" "autopoint" "showkey" "domainname" "setmetamode" "llvm-undname-14" "update-mime-database" "fc-validate" "lwp-download" "icontopbm" "pc1toppm" "gts2oogl" "yuvsplittoppm" "lsirq" "c89-gcc" "convert-im6.q16" "wish8.6" "avahi-publish-service" "gemtopnm" "podchecker" "ppmmake" "pnmmargin" "js" "pr" "gpg-connect-agent" "ppmtoascii" "dpkg-query" "notify-send" "invproj" "host" "lzfgrep" "derb" "systemd-cgtop" "truncate" "bdftopcf" "reset" "git-receive-pack" "vim.basic" "dh_testdir" "ppmquant" "xdg-user-dir" "gp-collect-app" "open" "l2ping" "dh_bugfiles" "nslookup" "ranlib" "proj" "pamendian" "pnmpad" "movemail.mailutils" "ntfsmove" "ppmcolormask" "shasum" "ppmspread" "rnano" "vacuumdb" "dpkg-realpath" "select-default-iwrap" "envsubst" "xlsclients" "pamtofits" "jpegtopnm" "pnmconvol" "cvt" "gtk-update-icon-cache" "regjsparser" "xkbvleds" "bzfgrep" "psfxtable" "xzdiff" "x86_64-linux-gnu-gcc-ar" "eqn" "dh_installinit" "tasksel" "pi3topbm" "tmux" "xwininfo" "see" "gxl2gv" "systemd-run" "du" "sdptool" "x86_64-linux-gnu-dwp" "llvm-pdbutil-14" "cacademo" "timeout" "dh_clean" "rotatelogs" "pamfunc" "dh_perl_openssl" "podebconf-display-po" "llvm-sim-14" "pcxtoppm" "dh_installlogcheck" "getopt" "composite" "yuy2topam" "pi1toppm" "nspr-config" "tclsh8.6" "x-session-manager" "py3clean" "dpkg-divert" "unflatten" "pgmminkowski" "i3bar" "hostname" "traceroute-nanog" "xman" "rpmsign" "tput" "setsid" "llvm-ar-14" "tape" "autom4te" "x86_64-linux-gnu-gcc-ar-12" "pamdice" "gpgtar" "lsattr" "dotlock.mailutils" "xload" "webpack" "dirname" "pamtopng" "fakeroot-tcp" "wpa_passphrase" "winicontopam" "sanstats" "sprop" "lsusb" "systemd-sysusers" "ebrowse.emacs" "expr" "rsvg-convert" "lzma" "kcookiejar5" "broadwayd" "pamtodjvurle" "which" "fdp" "pamtosrf" "xfontsel" "pamshuffle" "montage-im6" "recode-sr-latin" "zipgrep" "pbmtoatk" "ppmflash" "cacafire" "atktopbm" "dot" "autoupdate" "htdigest" "llvm-mca" "yaml2obj-14" "zfgrep" "pcdovtoppm" "pnmtojbig" "pgbench" "write" "pnminvert" "msgcat" "pnmtops" "htcacheclean" "xkbevd" "pamsharpness" "llc-14" "gp-display-text" "aclocal-1.16" "animate-im6.q16" "pamstretch" "btattach" "ncursesw5-config" "system-config-printer-applet" "gvcolor" "xz" "osage" "i3lock" "krita_version" "tty" "perldoc" "ucf" "gtk-encode-symbolic-svg" "fc-pattern" "ckbcomp" "systemd-repart" "figlet-toilet" "mkfontdir" "pbmtopsg3" "objdump" "dbus-daemon" "gslp" "splitfont" "xditview" "i3-with-shmlog" "timedatectl" "perlivp" "elfedit" "pamtogif" "msgattrib" "vlc" "systemd-mount" "dh_installtmpfiles" "select-editor" "prezip-bin" "gcore" "feh" "invgeod" "csplit" "ppmtoacad" "ppmtoarbtxt" "lzmore" "zless" "ping6" "defmt-sh" "sotruss" "automake" "test" "kill" "h2xs" "kquitapp5" "ntfsusermap" "rsync-ssl" "llvm-dwp" "llvm-exegesis" "dpkg-gensymbols" "dh_installmanpages" "fincore" "fallocate" "prlimit" "ppmmix" "npm-arborist" "curl" "gunzip" "dh_movefiles" "pnmgamma" "objcopy" "showconsolefont" "rpm2cpio" "pbmtoepsi" "gdk-pixbuf-csource" "pammixmulti" "ppmtopgm" "neotoppm" "lwp-mirror" "pg_buildext" "newgrp" "pamtouil" "aa-exec" "debconf-escape" "libpng16-config" "nyc" "python3.11" "pkexec" "pstree" "aa-enabled" "dh_installemacsen" "gcc-ar-12" "i3-dump-log" "fiascotopnm" "zgrep" "pnmtosgi" "libgcrypt-config" "pbmnoise" "ypdomainname" "find" "pamtopnm" "taskset" "routel" "sdiff" "ar" "pnmtopng" "obj2yaml" "ctags.emacs" "ex" "display-im6.q16" "lesspipe" "sldtoppm" "pbmtomacp" "xgettext" "zstdmt" "messages" "ping" "dpkg" "lspci" "pnminterp-gen" "g3topbm" "unmkinitramfs" "import-im6.q16" "sort" "ppmpat" "pic" "fuser" "gnome-www-browser" "journalctl" "pnmtosir" "dh_ucf" "viewres" "llvm-objcopy" "pg_ctlcluster" "sirtopnm" "zstdless" "brushtopbm" "msgen" "psql" "asciitopgm" "dpkg-maintscript-helper" "dh_makeshlibs" "lexgrog" "ln" "systemd-stdio-bridge" "choom" "pnmrotate" "apt-listchanges" "setarch" "llvm-nm" "logresolve" "dpkg-name" "pnmtofits" "xrdb" "x-www-browser" "pzstd" "pgmhist" "bluetoothctl" "pamfixtrunc" "zipdetails" "lzegrep" "pamcrater" "dh_autotools-dev_restoreconfig" "rmdir" "gtscheck" "pmap" "lsof" "i3-migrate-config-to-v4" "llvm-ml-14" "dnsdomainname" "dmenu" "cvlc" "sudo" "rpmlua" "nss-config" "x86_64-linux-gnu-gcc" "x86_64-linux-gnu-addr2line" "ipcmk" "pbmtoppa" "llvm-mca-14" "pnminterp" "whiptail" "upower" "lsw" "convert-im6" "babeljs-7-external-helpers" "c++" "autoheader" "rev" "pkgdata" "libsixel-config" "dpkg-gencontrol" "xmag" "systemd-escape" "linux-version" "basenc" "ntfsfix" "msgfmt" "dh_installppp" "gpgrt-config" "ps2pdf" "giftopnm" "bmptopnm" "mpstat" "sunicontopnm" "lslocks" "ssh-keygen" "ld.bfd" "ciptool" "deallocvt" "llvm-exegesis-14" "bzgrep" "ul" "x86_64-linux-gnu-python3.11-config" "ppmtomitsu" "mailq" "pamsummcol" "toe" "fc-cache" "pamaltsat" "pamtooctaveimg" "dpkg-buildpackage" "Xorg" "setlogcons" "pnmtorle" "neofetch" "pamstack" "ghostscript" "ss" "xbiff" "qrttoppm" "animate-im6" "man" "yaml-bench-14" "ptargrep" "grub-script-check" "grub-mkrelpath" "llvm-strings" "dh_auto_build" "hipstopgm" "gcov-dump-12" "grep" "ntfsdecrypt" "newaliases" "pbmtomgr" "mkfifo" "rpmverify" "gpasswd" "ppmwheel" "ppmdcfont" "gdk-pixbuf-pixdata" "troff" "psfgettable" "gettextize" "avstopam" "grub-syslinux2cfg" "grub-mkpasswd-pbkdf2" "ps2epsi" "x86_64-linux-gnu-gcov-12" "slock" "perl5.36.0" "uclampset" "ucfq" "unicode_stop" "chcon" "xgamma" "pg_dropcluster" "traceroute6" "pnmflip" "krb5-config" "ebrowse" "pbmto10x" "ico" "systemctl" "llvm-lto2-14" "llvm-cvtres" "gpg" "apt-ftparchive" "ppmtoicr" "ppmtoyuv" "gpgv" "gmake" "tifftopnm" "llvm-cxxfilt" "dsymutil-14" "pinentry-x11" "sar.sysstat" "zcmp" "chown" "cct" "dh_icons" "verify-uselistorder-14" "pamfind" "vlc-wrapper" "dpkg-shlibdeps" "users" "gcc-ranlib" "pamon" "ispell" "llvm-lto-14" "ppmtoxpm" "lli-child-target-14" "xdg-desktop-icon" "md5sum.textutils" "lessfile" "pamscale" "tempfile" "xdg-desktop-menu" "automake-1.16" "dh_installdeb" "gcc-nm-12" "../" "./")
+
+ ("/home/" (26296 25003 200515 883000) "../" "yuyihao/" "./")
+
+ ("/home/yuyihao/yuyihao/pacman-web/" (26294 20723 307042 481000) "./" "../" "index.html")
+
+ ("/home/yuyihao/NeenOpal/encrypt-data/project/encrypt_project/" (26282 9227 950045 794000) "django_cryptography/" "temp_migrations/" "./" "encrypt_project/" "myapp/" "../")
+
+ ("/home/yuyihao/NeenOpal/encrypt-data/project/encrypt_project/myapp/migrations/" (26282 5916 406849 566000) "0004_migrate_data.py" "./" "__pycache__/" "0005_delete_old_comment.py" "0003_comment_message.py" "../" "__init__.py" "0001_initial.py" "0002_rename_message_comment_old_message.py")
+
+ ("/home/yuyihao/NeenOpal/encrypt-data/project/encrypt_project/myapp/" (26282 5416 207937 454000) "migrations/" "views.py" "./" "__pycache__/" "admin.py" "../" "models.py" "__init__.py" "tests.py" "urls.py" "apps.py" "serializers.py")
+
+ ("/home/yuyihao/NeenOpal/encrypt-data/project/encrypt_project/temp_migrations/" (26282 4735 295674 337000) "migrations/" "./" "../")
+
+ ("/home/yuyihao/NeenOpal/encrypt-data/" (26282 593 117806 903000) "django-encrypt-example/" "project/" "./" ".venv/" "../")
+
+ ("/home/yuyihao/NeenOpal/encrypt-data/project/encrypt_project/encrypt_project/" (26281 62634 424005 331000) "settings.py" "./" "__pycache__/" "../" "__init__.py" "asgi.py" "wsgi.py" "urls.py")
+
+ ("/home/yuyihao/NeenOpal/django-mfa/django-mfa-demo/mfa_auth_demo/" (26281 50727 298481 564000) "settings.py" "./" "__pycache__/" "../" "__init__.py" "asgi.py" "wsgi.py" "urls.py")
+
+ ("/home/yuyihao/NeenOpal/myproject/myproject/" (26262 22604 814243 616000) "settings.py" "./" "__pycache__/" "../" "__init__.py" "asgi.py" "wsgi.py" "urls.py")
+
+ ("/home/yuyihao/NeenOpal/myproject/myapp/" (26262 22604 814243 616000) "migrations/" "views.py" "./" "__pycache__/" "admin.py" "../" "models.py" "__init__.py" "tests.py" "utils.py" "urls.py" "apps.py" "serializers.py")
+
+ ("/home/yuyihao/NeenOpal/myproject/" (26262 22604 814243 616000) "./" "myproject/" "myapp/" "../" "manage.py" "db.sqlite3")
+
+ ("/home/yuyihao/NeenOpal/" (26281 54867 179917 51000) "./" "myproject/" "myproject.rar" "task.md" "django-mfa.zip" "encrypt-data/" "../" "bills/" "mokkupai/" "django-mfa/" ".ssh/")
+
+ ("/home/yuyihao/NeenOpal/encrypt-data/project/" (26281 55062 861652 518000) "./" "encrypt_project/" "../")
+
+ ("/home/yuyihao/NeenOpal/django-mfa/django-mfa-demo/" (26280 41088 363263 766000) ".gitignore" ".git/" "TODO.md" "./" "mfa_auth_demo/" "myapp/" "django-mfa.postman_collection.json" "../" "manage.py" "README.md" "requirenments.txt" "db.sqlite3")
+
+ ("/home/yuyihao/NeenOpal/django-mfa/django-mfa-demo/myapp/" (26281 49514 956030 693000) "migrations/" "views.py" "./" "__pycache__/" "templates/" "admin.py" "../" "models.py" "__init__.py" "tests.py" "utils.py" "urls.py" "apps.py" "serializers.py")
+
+ ("/home/yuyihao/NeenOpal/django-mfa/" (26280 40997 218763 835000) "./" ".venv/" "../" "django-mfa-demo/")
+
+ ("/home/yuyihao/NeenOpal/django-mfa/myapp/" (26275 31297 186194 431000) "migrations/" "views.py" "./" "__pycache__/" "templates/" "admin.py" "../" "models.py" "__init__.py" "tests.py" "utils.py" "urls.py" "apps.py" "serializers.py")
+
+ ("/home/yuyihao/yuyihao/cses-problems/pr004/" (26264 8546 719452 278000) "pr004.py" "./" "../")
+
+ ("/home/yuyihao/yuyihao/django-field-encrypt/" (26264 55082 755290 219000) "django-encrypt-example/" "./" ".venv/" "../")
+
+ ("/home/yuyihao/yuyihao/cses-problems/" (26265 10143 317653 174000) "pr002/" "./" "../" "pr005/" "pr004/" "pr001/" "pr003/")
+
+ ("/home/yuyihao/yuyihao/cses-problems/pr005/" (26265 11236 625303 746000) "./" "pr005.py" "../")
+
+ ("/home/yuyihao/yuyihao/cses-problems/pr003/" (26264 6942 247662 277000) "pr003.py" "./" "../")
+
+ ("/home/yuyihao/.config/xfce4/xfconf/xfce-perchannel-xml/" (26263 57305 262725 45000) "displays.xml" "parole.xml" "xfce4-power-manager.xml" "xfce4-appfinder.xml" "ristretto.xml" "xfce4-notifyd.xml" "xsettings.xml" "xfce4-taskmanager.xml" "xfce4-session.xml" "pointers.xml" "./" "xfwm4.xml" "keyboards.xml" "thunar.xml" "xfce4-desktop.xml" "../" "xfce4-keyboard-shortcuts.xml" "xfce4-panel.xml" "xfce4-settings-manager.xml" "xfce4-settings-editor.xml")
+
+ ("/home/yuyihao/NeenOpal/mokkupai/" (26262 22376 982645 844000) "projects/" "python_build/" "./" "Python-3.8.10/" "copied_env.txt" "myproject.rar" ".venv/" "intern_data/" "../" "Python-3.8.10.tgz")
+
+ ("/home/yuyihao/Downloads/books/" (26249 12382 124755 702000) "22Copy of Report_MajorProject_EndSem.pdf" "C in Depth Easy Beginner's To Expert's Guide ( PDFDrive.com ).pdf" "How to design program se.pdf" "wilsongraph.pdf" "compiler-design/" "software_engineering/" "Problem Solving And Program Design In C - 7th Edition.pdf" "algorithm/" "Mastering_Go_Create_Golang_production_applications_using_network.pdf" "4115-Article Text-10882-1-10-20180528.pdf" "random-read/" "./" "Fundamentals-of-Wireless-Sensor-Networks-Waltenegus-Dargie (1).pdf" "Data Communications and Networking By Behrouz A.Forouzan.pdf" "Data Structures and Algorithms in Python ( PDFDrive ).pdf" "wireless sensor solutions.pdf" "../" ".~lock.Data Communications and Networking By Behrouz A.Forouzan.pdf#" "aoc(1).pdf" "AdamDrozdek__DataStructures_and_Algorithms_in_C_4Ed.pdf" "python-related/" "solution_manual.pdf")
+
+ ("/home/yuyihao/yuyihao/python-hand-gesture/" (26249 14564 179384 969000) "main.py" "./" ".venv/" "../")
+
+ ("/home/yuyihao/yuyihao/cses-problems/pr001/" (26264 3070 41668 362000) "pr001.c" "./" "run.sh" "pr001.py" "../")
+
+ ("/home/yuyihao/yuyihao/cses-problems/pr002/" (26264 4634 615953 13000) "./" "../" "pr002.py")
+
+ ("/home/yuyihao/yuyihao/yuyi-hao.github.io/_site/" (26240 6573 55989 531000) "archives/" "projects/" "assets/" "categories/" "posts/" "./" "feed.xml" "tags/" "sw.min.js" "norobots/" "blogs/" "robots.txt" "404.html" "../" "redirects.json" "index.html" "sitemap.xml" "about/")
+
+ ("/home/yuyihao/yuyihao/go_lrn/" (26233 52699 720682 97000) ".git/" "snogo/" "./" "go.mod" "../" "LICENSE" "go.sum")
+
+ ("/home/yuyihao/yuyihao/yuyi-hao.github.io/" (26240 2367 781014 514000) "_site/" ".gitignore" "_config.yml" ".git/" "assets/" "./" ".github/" ".nojekyll" ".jekyll-cache/" ".gitattributes" "../" ".editorconfig" "_plugins/" "Gemfile" "Gemfile.lock" "index.html" "README.md" "LICENSE" "_posts/" ".gitmodules" "_tabs/" "_data/")
+
+ ("/home/yuyihao/yuyihao/django-field-encrypt/encrypt_field_model/myapp/" (26241 47090 19966 109000) "migrations/" "views.py" "./" "admin.py" "../" "models.py" "__init__.py" "tests.py" "urls.py" "apps.py")
+
+ ("/home/yuyihao/yuyihao/django-field-encrypt/django-encryption-main/" (26238 52790 0 0) "newapp/" "./" "../" "manage.py" "db.sqlite3" "signal_test/")
+
+ ("/home/yuyihao/yuyihao/django-field-encrypt/encrypt_field_model/" (26241 45099 951955 391000) "./" "myapp/" "../" "manage.py" "encrypt_field_model/")
+
+ ("/home/yuyihao/yuyihao/django-lrn/encryption-fields/encrypt_value/myapp/" (26227 12409 614885 349000) "migrations/" "views.py" "./" "admin.py" "../" "models.py" "__init__.py" "tests.py" "urls.py" "apps.py" "serializers.py")
+
+ ("/home/yuyihao/yuyihao/go_lrn/snogo/" (26233 52509 345690 905000) "assets/" "./" "main.go" "../")
+
+ ("/home/yuyihao/yuyihao/go-stream/" (26223 14858 618489 108000) "build.sh" "./" "main.go" "../" "go/" "go1.22.3.linux-amd64.tar.gz" "raylib-go/")
+
+ ("/home/yuyihao/yuyihao/panda-har/" (26225 57948 721882 727000) "./" "../" "index.html")
+
+ ("/home/yuyihao/yuyihao/django-lrn/" (26227 11242 693259 579000) "tinder-clone/" "requirements/" "./" "core/" "../" "encryption-fields/")
+
+ ("/home/yuyihao/yuyihao/yuyi-hao.github.io/_site/about/" (26213 47808 705857 279000) "./" "../" "index.html")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
